@@ -1,0 +1,32 @@
+
+#myid{
+  color: chocolate;
+}
+
+
+div  .myclass{
+  color: chartreuse;
+}
+
+/* h1:hover{
+  color: brown;
+} */
+
+.myclass{
+  color: green;
+}
+
+/* [title='mytitle']{
+  color: blue;
+} */
+
+
+
+
+h1{
+  color: yellow;
+}
+
+*{
+  color: red !important;
+}

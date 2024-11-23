@@ -1,0 +1,7 @@
+#mydiv{
+  /* border: 2px solid black; */
+  /* height: 100px; */
+  border-width: 2px;
+  border-style: groove;
+  border-color: red;
+}

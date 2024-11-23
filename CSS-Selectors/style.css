@@ -1,0 +1,93 @@
+
+
+/* div{
+  background-color: red;
+} */
+
+/* #myid{
+ background-color: greenyellow;
+} */
+
+/* .myclass{
+ background-color: rgb(255, 47, 109);
+} */
+
+/* .myclass{
+ background-color: rgb(255, 47, 109);
+} */
+/* 
+#myid1{
+  background-color: aqua;
+}
+
+#myid2{
+  background-color: rgb(204, 255, 0);
+}
+#myid3{
+  background-color: rgb(255, 162, 0);
+} */
+
+
+/* div p{
+  background-color: red;
+} */
+
+/* #mydiv > p{
+  background-color: red;
+} */
+
+/* #mydiv + p{
+  background-color: red;
+} */
+
+/* #mydiv ~ p{
+  background-color: red;
+} */
+
+/* *{
+  background-color: aqua;
+} */
+
+/* p:hover{
+  color: red;
+} */
+
+/* a:active{
+  color: fuchsia;
+} */
+
+
+/* a:visited{
+  color: green;
+  }  */
+  
+  /* p::first-letter{
+    color: red
+  }
+  p::first-line{
+    color: rgb(106, 177, 0)
+  }
+  p::before{
+    content: 'hello';
+  }
+  p::after{
+    content: 'bye';
+  } */
+
+/* 
+  #para, .myh1, div{
+    color: tomato;
+  } */
+
+  /* [title='hi hello bye']{
+    color: red;
+  } */
+  /* [title^='hi']{
+    color: red;
+  } */
+  /* [title$='bye']{
+    color: red;
+  } */
+  [title*='h']{
+    color: red;
+  }

@@ -1,0 +1,14 @@
+#parent{
+  height: 200px;
+  border: 2px solid black;
+}
+#child{
+  border: 2px solid red;
+  /* width: 50%; */
+  /* min-width: 600px; */
+  /* max-width: 600px; */
+  /* height: 100%; */
+  min-height: 10px;
+  /* min-height: 300px; */
+  /* max-height: 400px; */
+}
