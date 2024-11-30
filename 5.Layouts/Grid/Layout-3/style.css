@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#container{
+  width: 100%;
+  height: 70px;
+  background-color: black;
+  display: grid;
+  grid-template-columns: 50% 50%;
+
+}
+
+#links-div{
+/* background-color: aqua; */
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+#search-div{
+  display: grid;
+  place-items: center;
+}
+
+#search-input{
+  display: grid;
+  width: 90%; 
+  height: 40px; 
+ /* align-items: center; */
+ /* margin-top: 15px; */
+  padding-left: 20px;
+  
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
