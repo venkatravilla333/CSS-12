@@ -1,0 +1,32 @@
+#parent{
+  /* width: 450px; */
+  /* height: 300px; */
+  border: 2px solid black;
+  margin: 100px auto;
+}
+
+#one{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  float: left;
+}
+#two{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 0, 0);
+  float: right;
+}
+#three{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(115, 255, 0);
+  float: left;
+}
+
+.clear-fix::after{
+  content: '';
+  display: block;
+  clear: both;
+}
+
