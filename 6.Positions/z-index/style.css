@@ -1,0 +1,29 @@
+
+
+#one{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+   position: relative;
+  z-index: 5;
+ 
+}
+#two{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(30, 255, 0);
+  position: relative;
+  z-index: 3;
+  top: -60px;
+  left: 20px;
+  
+}
+#three{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(12, 0, 238);
+  position: relative;
+  z-index: 4;
+  top: -120px;
+  left: 40px;
+}
